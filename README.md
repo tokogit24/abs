@@ -1,5 +1,13 @@
-# abs
+# Simple DevOps Project
 
-This is a change made by rodrigue
-This line is added by developer Agnes
+This Repository is a collection of Implementation documents. 
+
+### Purpose:
+By following this repository you can able to setup a DevOps CI/CD Pipeline using
+- git
+- Jenkins
+- Mavine
+- Ansible
+- Docker &
+- Kubernetes
 
